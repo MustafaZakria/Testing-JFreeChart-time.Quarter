@@ -1,78 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="326b08e2-4834-44f7-9007-16679f4b7b8c" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/bin/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="326b08e2-4834-44f7-9007-16679f4b7b8c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JFreeChart.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JFreeChart.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/org/jfree/data/test/QuarterClassTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/org/jfree/data/test/QuarterClassTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/jfree/data/test/QuarterClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/jfree/data/test/QuarterClassTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/org/jfree/data/test/RangeTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="185" column="47" lean-forward="true" selection-start-line="185" selection-start-column="47" selection-end-line="185" selection-end-column="47" />
-              <folding>
-                <element signature="n#!!block;n#arrange#0;n#RangeTest#0" />
-                <element signature="n#!!block;n#arrange#1;n#RangeTest#0" />
-                <element signature="method#testContaints#0;class#RangeTest#0" />
-                <element signature="method#testContaints_BV1#1;class#RangeTest#0" />
-                <element signature="method#testContaints_BV2#1;class#RangeTest#0" />
-                <element signature="method#testconstrain_BV1#1;class#RangeTest#0" />
-                <element signature="method#testconstrain_BV2#1;class#RangeTest#0" />
-                <element signature="method#testEquals_BV1#1;class#RangeTest#0" />
-                <element signature="method#testEquals_BV2#1;class#RangeTest#0" />
-                <element signature="method#testLength#1;class#RangeTest#0" />
-                <element signature="method#testLength_MinMax#1;class#RangeTest#0" />
-                <element signature="method#testIntersect#1;class#RangeTest#0" />
-                <element signature="method#testGetLowerBound#1;class#RangeTest#0" />
-                <element signature="method#testGetUpperBound#1;class#RangeTest#0" />
-                <element signature="method#testGetCentralValue_BV1#1;class#RangeTest#0" />
-                <element signature="method#testGetCentralValue_BV2#1;class#RangeTest#0" />
-                <element signature="method#testGetCentralValue_BV3#1;class#RangeTest#0" />
-                <element signature="method#testCombine#1;class#RangeTest#0" />
-                <element signature="method#testCombine_null#1;class#RangeTest#0" />
-                <element signature="method#testExpand#1;class#RangeTest#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/JFreeChartJar/jfreechart.jar!/org/jfree/data/Range.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="89" column="30" lean-forward="true" selection-start-line="89" selection-start-column="30" selection-end-line="89" selection-end-column="30" />
-              <folding>
-                <element signature="e#716#717#0" expanded="true" />
-                <element signature="e#749#750#0" expanded="true" />
-                <element signature="e#795#796#0" expanded="true" />
-                <element signature="e#828#829#0" expanded="true" />
-                <element signature="e#870#871#0" expanded="true" />
-                <element signature="e#916#917#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_25/src.zip!/java/lang/IllegalArgumentException.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="25" column="18" lean-forward="true" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="18" />
-              <folding>
-                <element signature="e#828#829#0" expanded="true" />
-                <element signature="e#852#853#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -81,12 +22,17 @@
       </list>
     </option>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1340" />
     <option name="height" value="688" />
   </component>
+  <component name="ProjectId" id="2Of1V00TnZeKh3ULYQTks1ZO4tV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -112,28 +58,21 @@
       <pane id="Scope" />
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1583762588380" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="JUnit.RangeTest.testShift_BV2">
-    <configuration name="RangeTest.testCombine_null" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "last_opened_file_path": "D:/Semster 8/Testing/Assignments/Assignment#1-Testing-JFreeChart/JFreeChart"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.QuarterClassTest.testParseString_invalidQuarter">
+    <configuration name="QuarterClassTest.testGetQuarter_returnsFalse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JFreeChart" />
       <extension name="coverage">
         <pattern>
@@ -142,14 +81,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="org.jfree.data.test" />
-      <option name="MAIN_CLASS_NAME" value="org.jfree.data.test.RangeTest" />
-      <option name="METHOD_NAME" value="testCombine_null" />
+      <option name="MAIN_CLASS_NAME" value="org.jfree.data.test.QuarterClassTest" />
+      <option name="METHOD_NAME" value="testGetQuarter_returnsFalse" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RangeTest.testExpand" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="QuarterClassTest.testGetYear" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JFreeChart" />
       <extension name="coverage">
         <pattern>
@@ -158,14 +97,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="org.jfree.data.test" />
-      <option name="MAIN_CLASS_NAME" value="org.jfree.data.test.RangeTest" />
-      <option name="METHOD_NAME" value="testExpand" />
+      <option name="MAIN_CLASS_NAME" value="org.jfree.data.test.QuarterClassTest" />
+      <option name="METHOD_NAME" value="testGetYear" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RangeTest.testExpand_BV1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="QuarterClassTest.testParseString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JFreeChart" />
       <extension name="coverage">
         <pattern>
@@ -174,14 +113,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="org.jfree.data.test" />
-      <option name="MAIN_CLASS_NAME" value="org.jfree.data.test.RangeTest" />
-      <option name="METHOD_NAME" value="testExpand_BV1" />
+      <option name="MAIN_CLASS_NAME" value="org.jfree.data.test.QuarterClassTest" />
+      <option name="METHOD_NAME" value="testParseString" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RangeTest.testShift_BV1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="QuarterClassTest.testParseString_invalidQuarter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JFreeChart" />
       <extension name="coverage">
         <pattern>
@@ -190,14 +129,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="org.jfree.data.test" />
-      <option name="MAIN_CLASS_NAME" value="org.jfree.data.test.RangeTest" />
-      <option name="METHOD_NAME" value="testShift_BV1" />
+      <option name="MAIN_CLASS_NAME" value="org.jfree.data.test.QuarterClassTest" />
+      <option name="METHOD_NAME" value="testParseString_invalidQuarter" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RangeTest.testShift_BV2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="QuarterClassTest.testQuarterCtor3_invalidQuarter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JFreeChart" />
       <extension name="coverage">
         <pattern>
@@ -206,8 +145,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="org.jfree.data.test" />
-      <option name="MAIN_CLASS_NAME" value="org.jfree.data.test.RangeTest" />
-      <option name="METHOD_NAME" value="testShift_BV2" />
+      <option name="MAIN_CLASS_NAME" value="org.jfree.data.test.QuarterClassTest" />
+      <option name="METHOD_NAME" value="testQuarterCtor3_invalidQuarter" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -215,14 +154,15 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.RangeTest.testShift_BV2" />
-        <item itemvalue="JUnit.RangeTest.testShift_BV1" />
-        <item itemvalue="JUnit.RangeTest.testExpand_BV1" />
-        <item itemvalue="JUnit.RangeTest.testExpand" />
-        <item itemvalue="JUnit.RangeTest.testCombine_null" />
+        <item itemvalue="JUnit.QuarterClassTest.testParseString_invalidQuarter" />
+        <item itemvalue="JUnit.QuarterClassTest.testParseString" />
+        <item itemvalue="JUnit.QuarterClassTest.testQuarterCtor3_invalidQuarter" />
+        <item itemvalue="JUnit.QuarterClassTest.testGetYear" />
+        <item itemvalue="JUnit.QuarterClassTest.testGetQuarter_returnsFalse" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -315,35 +255,35 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>jar://$PROJECT_DIR$/JFreeChartJar/jfreechart.jar!/org/jfree/data/Range.class</url>
           <line>94</line>
-          <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/org/jfree/data/test/RangeTest.java</url>
           <line>41</line>
-          <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/org/jfree/data/test/RangeTest.java</url>
           <line>78</line>
-          <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/org/jfree/data/test/RangeTest.java</url>
           <line>132</line>
-          <properties />
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/org/jfree/data/test/RangeTest.java</url>
           <line>142</line>
-          <properties />
           <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JFreeChart$QuarterClassTest_testQuarterDefaultCtor.ic" NAME="QuarterClassTest.testQuarterDefaultCtor Coverage Results" MODIFIED="1681937734134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.jfree.data.test.*</FILTER>
+    </SUITE>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
